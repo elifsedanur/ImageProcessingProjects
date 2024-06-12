@@ -1,0 +1,6 @@
+﻿  gorunutIsleme.cpp
+  imagefun.cpp
+C:\Users\elifs\Desktop\Görüntü İşleme\gorunutIsleme\gorunutIsleme\gorunutIsleme.cpp(3,10): error C1083: içerme dosyası açılamıyor: 'opencv2/core/core.hpp': No such file or directory
+C:\Users\elifs\Desktop\Görüntü İşleme\gorunutIsleme\gorunutIsleme\imagefun.cpp(12,112): warning C4244: '=': 'double' - 'unsigned char' dönüşümü; veri kaybı olabilir
+  myHuMoments.cpp
+  Object.cpp

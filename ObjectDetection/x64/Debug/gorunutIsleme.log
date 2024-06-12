@@ -1,0 +1,5 @@
+﻿  gorunutIsleme.cpp
+C:\Users\elifs\Desktop\Görüntü İşleme\gorunutIsleme\gorunutIsleme\gorunutIsleme.cpp(30,112): warning C4244: '=': 'double' - 'unsigned char' dönüşümü; veri kaybı olabilir
+C:\Users\elifs\Desktop\Görüntü İşleme\gorunutIsleme\gorunutIsleme\gorunutIsleme.cpp(604,66): warning C4267: 'bağımsız değişken': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\elifs\Desktop\Görüntü İşleme\gorunutIsleme\gorunutIsleme\gorunutIsleme.cpp(632,66): warning C4267: 'bağımsız değişken': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+  gorunutIsleme.vcxproj -> C:\Users\elifs\Desktop\Görüntü İşleme\gorunutIsleme\x64\Debug\gorunutIsleme.exe

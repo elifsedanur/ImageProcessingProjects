@@ -1,0 +1,15 @@
+﻿  goruntuIsleme2.cpp
+C:\Users\elifs\Desktop\Görüntü İşleme\gorunutIsleme\goruntuIsleme2\goruntuIsleme2.cpp(39,112): warning C4244: '=': 'double' - 'unsigned char' dönüşümü; veri kaybı olabilir
+C:\Users\elifs\Desktop\Görüntü İşleme\gorunutIsleme\goruntuIsleme2\goruntuIsleme2.cpp(79,18): warning C4244: '=': 'double' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\elifs\Desktop\Görüntü İşleme\gorunutIsleme\goruntuIsleme2\goruntuIsleme2.cpp(61,9): warning C4101: 'angle': yerel değişken başvurusu kaldırıldı
+C:\Users\elifs\Desktop\Görüntü İşleme\gorunutIsleme\goruntuIsleme2\goruntuIsleme2.cpp(62,6): warning C4101: 'temp': yerel değişken başvurusu kaldırıldı
+C:\Users\elifs\Desktop\Görüntü İşleme\gorunutIsleme\goruntuIsleme2\goruntuIsleme2.cpp(391,40): warning C4244: '=': 'double' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\elifs\Desktop\Görüntü İşleme\gorunutIsleme\goruntuIsleme2\goruntuIsleme2.cpp(406,16): warning C4244: 'başlatılıyor': 'double' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\elifs\Desktop\Görüntü İşleme\gorunutIsleme\goruntuIsleme2\goruntuIsleme2.cpp(469,45): warning C4244: '=': 'double' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\elifs\Desktop\Görüntü İşleme\gorunutIsleme\goruntuIsleme2\goruntuIsleme2.cpp(496,14): warning C4244: '=': 'double' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\elifs\Desktop\Görüntü İşleme\gorunutIsleme\goruntuIsleme2\goruntuIsleme2.cpp(497,14): warning C4244: '=': 'double' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\elifs\Desktop\Görüntü İşleme\gorunutIsleme\goruntuIsleme2\goruntuIsleme2.cpp(510,16): warning C4244: 'başlatılıyor': 'double' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\elifs\Desktop\Görüntü İşleme\gorunutIsleme\goruntuIsleme2\goruntuIsleme2.cpp(571,21): warning C4244: '=': 'double' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\elifs\Desktop\Görüntü İşleme\gorunutIsleme\goruntuIsleme2\goruntuIsleme2.cpp(572,21): warning C4244: '=': 'double' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\elifs\Desktop\Görüntü İşleme\gorunutIsleme\goruntuIsleme2\goruntuIsleme2.cpp(130,1): warning C4715: 'findGradientDirection': tüm denetim yolları değer döndürmez
+  goruntuIsleme2.vcxproj -> C:\Users\elifs\Desktop\Görüntü İşleme\gorunutIsleme\x64\Debug\goruntuIsleme2.exe
